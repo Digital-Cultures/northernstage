@@ -1,4 +1,4 @@
-
+//works with messages from http://sensors2.org
 import ddf.minim.*;
 
 import oscP5.*;
